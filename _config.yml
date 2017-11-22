@@ -28,7 +28,7 @@ markdown: rdiscount
 rdiscount: 
   extensions: [smart]
 permalink: /article/:title
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
