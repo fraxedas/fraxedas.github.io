@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Hello World!!"
 date:   2017-11-21 19:14:34 -0500
 categories: Oscar Update
